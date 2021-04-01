@@ -1,120 +1,122 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,394,862
-Ottawa,113,205
-Brampton,104,204
-Mississauga,98,189
-Hamilton,68,145
-Vaughan,49,101
-Markham,26,52
-Richmond Hill,20,32
-Ajax,19,45
-Sarnia,18,43
-Burlington,18,21
-Whitby,17,30
-Oakville,17,27
-Milton,17,29
-Oshawa,16,51
-Windsor,15,19
-Pickering,14,38
-London,12,13
-Kitchener,12,24
-Chatham-Kent,12,25
-Barrie,12,21
+Toronto,408,956
+Ottawa,122,229
+Brampton,102,198
+Mississauga,94,182
+Hamilton,73,170
+Vaughan,50,108
+Markham,28,55
+Richmond Hill,22,35
+Ajax,22,66
+Milton,21,35
+Oshawa,18,48
+Burlington,18,22
+Oakville,17,28
+Whitby,16,37
+Sarnia,16,35
+Windsor,14,18
+London,14,17
+Chatham-Kent,13,25
+Pickering,12,42
+Kitchener,12,22
+Niagara Falls,11,15
+Cambridge,11,19
 Caledon,11,23
-Brantford,11,21
 Newmarket,10,13
-Cambridge,10,17
-Guelph,9,13
-Niagara Falls,8,12
-Aurora,8,7
-St. Catharines,7,13
-Bradford West Gwillimbury,7,9
-Waterloo,6,12
-North Grenville,6,24
-Kingston,6,11
-Clarington,6,7
-New Tecumseth,5,8
+Barrie,10,17
+Clarington,9,9
+Brantford,9,19
+Guelph,8,12
+Aurora,8,8
+Bradford West Gwillimbury,7,10
+Waterloo,6,11
+St. Catharines,6,13
+North Grenville,6,22
+Kingston,6,12
+New Tecumseth,5,9
+Halton Hills,5,8
+Georgina,5,6
+Woodstock,4,5
+Welland,4,11
 Russell,4,11
-Lambton Shores,4,14
-Innisfil,4,11
+Peterborough,4,4
+Innisfil,4,10
 Hawkesbury,4,5
-Halton Hills,4,4
-Georgina,4,5
+Cornwall,4,4
 Whitchurch - Stouffville,3,4
-Strathroy-Caradoc,3,3
-Peterborough,3,3
-Perth,3,5
+Strathroy-Caradoc,3,4
+South Glengarry,3,6
 King,3,5
-Haldimand County,3,4
-Fort Erie,3,4
-Cornwall,3,3
-Woodstock,2,6
-Welland,2,4
-Warwick,2,3
-Thunder Bay,2,3
-Thorold,2,8
+Casselman,3,5
+Thorold,2,5
+Tecumseh,2,3
 Stratford,2,2
 South Stormont,2,3
-South Glengarry,2,3
-Sioux Lookout,2,2
-Petrolia,2,3
-Orangeville,2,3
+Quinte West,2,2
+Petrolia,2,5
+Perth,2,4
+Pelham,2,3
+Orangeville,2,2
+Loyalist,2,3
+Lambton Shores,2,10
 Ingersoll,2,2
-East Gwillimbury,2,6
+Haldimand County,2,2
+Fort Erie,2,3
 Champlain,2,2
-Casselman,2,2
 Woolwich,1,1
 Wellington North,1,1
+Warwick,1,2
+Uxbridge,1,2
 Trent Hills,1,1
 Thames Centre,1,1
-Tecumseh,1,1
-St. Thomas,1,2
+Stone Mills,1,1
+St. Thomas,1,3
 Springwater,1,1
 Southwest Middlesex,1,1
 South Dundas,1,2
 South Bruce Peninsula,1,1
-South Bruce,1,1
 Smiths Falls,1,1
-Shelburne,1,1
+Shelburne,1,2
 Severn,1,1
+Scugog,1,2
 Rideau Lakes,1,2
 Ramara,1,1
 Pickle Lake,1,1
+Penetanguishene,1,1
 Pembroke,1,1
-Pelham,1,2
 Orillia,1,1
 North Middlesex,1,1
 North Glengarry,1,3
 North Dundas,1,5
-North Bay,1,1
 Norfolk County,1,2
 Mississippi Mills,1,1
-Midland,1,2
+Midland,1,3
+Mapleton,1,1
 Malahide,1,1
-Madawaska Valley,1,2
-Lucan Biddulph,1,1
-Loyalist,1,2
-Leamington,1,1
+Madawaska Valley,1,1
+Lasalle,1,2
 Lanark Highlands,1,1
 Lakeshore,1,2
+Kincardine,1,1
 Kenora,1,1
-Johnson,1,1
-Grimsby,1,3
+Huron-Kinloss,1,1
+Grimsby,1,2
 Greenstone,1,1
-Grand Valley,1,1
+Goderich,1,1
 Essex,1,2
-Essa,1,1
-Erin,1,1
 Enniskillen,1,1
+East Gwillimbury,1,0
 Dryden,1,2
 Collingwood,1,1
 Cobourg,1,1
 Clarence-Rockland,1,2
-Central Frontenac,1,3
+Central Frontenac,1,2
 Cavan Monaghan,1,1
 Carleton Place,1,1
-Brooke-Alvinston,1,7
+Brooke-Alvinston,1,8
 Brockville,1,1
+Brant,1,1
+Belleville,1,1
 Beckwith,1,1
 Aylmer,1,1
 Adjala-Tosorontio,1,1
