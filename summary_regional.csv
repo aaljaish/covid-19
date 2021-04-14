@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,446,1126
-Mississauga,166,207
-Ottawa,162,340
-Brampton,155,204
+Toronto,447,1137
+Mississauga,163,199
+Ottawa,155,325
+Brampton,155,201
 Hamilton,71,171
-Vaughan,50,151
-Markham,31,85
-Richmond Hill,26,55
+Vaughan,52,160
+Markham,34,92
+Richmond Hill,27,56
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
 Kitchener,22,28
-Caledon,22,26
 Milton,21,76
+Caledon,21,25
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -39,13 +39,12 @@ Quinte West,5,8
 Lakeshore,5,6
 Kingston,5,6
 Haldimand County,5,16
-Georgina,5,7
+Georgina,5,8
 Belleville,5,8
 Timmins,4,4
 Thorold,4,4
 Peterborough,4,7
 North Grenville,4,10
-Newmarket,4,10
 Lasalle,4,5
 Innisfil,4,7
 Hawkesbury,4,8
@@ -57,12 +56,14 @@ South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
 North Glengarry,3,7
+Newmarket,3,8
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
 Whitchurch-Stouffville,2,4
+The Nation,2,2
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -81,7 +82,6 @@ Centre Hastings,2,2
 Brockton,2,2
 Whitchurch-Stouffville	,1,1
 Trent Hills,1,1
-The Nation,1,1
 The Blue Mountains,1,2
 Strathroy-Caradoc,1,1
 Stratford,1,1
