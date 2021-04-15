@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,447,1137
-Mississauga,163,199
-Ottawa,155,325
-Brampton,155,201
+Toronto,448,1141
+Mississauga,161,211
+Ottawa,155,324
+Brampton,154,222
 Hamilton,71,171
-Vaughan,52,160
-Markham,34,92
-Richmond Hill,27,56
+Vaughan,59,172
+Markham,34,94
+Richmond Hill,30,59
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
 Kitchener,22,28
 Milton,21,76
-Caledon,21,25
+Caledon,21,28
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -31,20 +31,21 @@ St. Catharines,9,13
 Halton Hills,9,14
 Cornwall,9,11
 Guelph,8,13
+Aurora,8,10
 Waterloo,7,9
-Aurora,6,8
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
 Lakeshore,5,6
 Kingston,5,6
 Haldimand County,5,16
-Georgina,5,8
+Georgina,5,7
 Belleville,5,8
 Timmins,4,4
 Thorold,4,4
 Peterborough,4,7
 North Grenville,4,10
+Newmarket,4,10
 Lasalle,4,5
 Innisfil,4,7
 Hawkesbury,4,8
@@ -56,7 +57,6 @@ South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
 North Glengarry,3,7
-Newmarket,3,8
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
@@ -93,7 +93,7 @@ South Bruce,1,1
 Sioux Lookout,1,1
 Shelburne,1,1
 Puslinch,1,1
-Perth,1,4
+Perth,1,1
 Penetanguishene,1,1
 Owen Sound,1,1
 North Dundas,1,1
@@ -102,6 +102,7 @@ North Bay,1,1
 Minden Hills,1,1
 Midland,1,5
 Marmora and Lake,1,1
+Manitouwadge,1,1
 Lambton Shores,1,5
 Kingsville,1,1
 King,1,1
