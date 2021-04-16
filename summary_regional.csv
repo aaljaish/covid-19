@@ -1,12 +1,12 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,448,1141
-Mississauga,161,211
-Ottawa,155,324
-Brampton,154,222
+Toronto,446,1135
+Mississauga,157,207
+Ottawa,156,330
+Brampton,150,218
 Hamilton,71,171
-Vaughan,59,172
-Markham,34,94
-Richmond Hill,30,59
+Vaughan,55,154
+Markham,31,84
+Richmond Hill,27,55
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
@@ -30,8 +30,8 @@ Bradford West Gwillimbury,10,19
 St. Catharines,9,13
 Halton Hills,9,14
 Cornwall,9,11
+Aurora,9,11
 Guelph,8,13
-Aurora,8,10
 Waterloo,7,9
 Woodstock,5,6
 Tecumseh,5,13
@@ -39,7 +39,6 @@ Quinte West,5,8
 Lakeshore,5,6
 Kingston,5,6
 Haldimand County,5,16
-Georgina,5,7
 Belleville,5,8
 Timmins,4,4
 Thorold,4,4
@@ -59,6 +58,7 @@ Russell,3,5
 North Glengarry,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
+Georgina,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
@@ -105,7 +105,6 @@ Marmora and Lake,1,1
 Manitouwadge,1,1
 Lambton Shores,1,5
 Kingsville,1,1
-King,1,1
 Kincardine,1,1
 Kenora,1,1
 Iroquois Falls,1,1
