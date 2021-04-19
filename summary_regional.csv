@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,446,1135
-Mississauga,157,207
-Ottawa,156,330
-Brampton,150,218
+Toronto,447,1128
+Ottawa,158,345
+Mississauga,157,206
+Brampton,150,215
 Hamilton,71,171
-Vaughan,55,154
-Markham,31,84
-Richmond Hill,27,55
+Vaughan,51,161
+Richmond Hill,28,59
+Markham,27,83
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
 Kitchener,22,28
 Milton,21,76
-Caledon,21,28
+Caledon,21,27
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -28,10 +28,11 @@ Chatham-Kent,11,15
 Sarnia,10,21
 Bradford West Gwillimbury,10,19
 St. Catharines,9,13
+Newmarket,9,17
 Halton Hills,9,14
 Cornwall,9,11
-Aurora,9,11
 Guelph,8,13
+Aurora,8,11
 Waterloo,7,9
 Woodstock,5,6
 Tecumseh,5,13
@@ -44,13 +45,12 @@ Timmins,4,4
 Thorold,4,4
 Peterborough,4,7
 North Grenville,4,10
-Newmarket,4,10
 Lasalle,4,5
 Innisfil,4,7
 Hawkesbury,4,8
 Clarence-Rockland,4,6
 Casselman,4,18
-Whitchurch - Stouffville,3,4
+Whitchurch - Stouffville,3,5
 Uxbridge,3,14
 South Glengarry,3,5
 Scugog,3,7
@@ -62,7 +62,7 @@ Georgina,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
-Whitchurch-Stouffville,2,4
+Whitchurch-Stouffville,2,9
 The Nation,2,2
 St. Thomas,2,4
 Sault Ste. Marie,2,3
@@ -102,7 +102,7 @@ North Bay,1,1
 Minden Hills,1,1
 Midland,1,5
 Marmora and Lake,1,1
-Manitouwadge,1,1
+Manitouwadge,1,2
 Lambton Shores,1,5
 Kingsville,1,1
 Kincardine,1,1
