@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,441,1113
-Ottawa,158,349
-Mississauga,157,191
-Brampton,149,204
+Toronto,436,1096
+Ottawa,153,329
+Mississauga,152,147
+Brampton,147,120
 Hamilton,71,171
-Vaughan,51,161
-Richmond Hill,28,59
-Markham,27,83
+Vaughan,46,159
+Markham,27,74
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
+Richmond Hill,22,43
 Kitchener,22,28
 Milton,21,76
-Caledon,21,27
+Caledon,21,29
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -28,12 +28,12 @@ Chatham-Kent,11,15
 Sarnia,10,21
 Bradford West Gwillimbury,10,19
 St. Catharines,9,13
-Newmarket,9,17
 Halton Hills,9,14
 Cornwall,9,11
+Aurora,9,11
 Guelph,8,13
-Aurora,8,11
 Waterloo,7,9
+Newmarket,7,13
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
@@ -50,7 +50,6 @@ Innisfil,4,7
 Hawkesbury,4,8
 Clarence-Rockland,4,6
 Casselman,4,18
-Whitchurch - Stouffville,3,5
 Uxbridge,3,14
 South Glengarry,3,5
 Scugog,3,7
@@ -58,11 +57,11 @@ Russell,3,5
 North Glengarry,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
-Georgina,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
 Whitchurch-Stouffville,2,9
+Whitchurch - Stouffville,2,4
 The Nation,2,2
 St. Thomas,2,4
 Sault Ste. Marie,2,3
@@ -76,7 +75,8 @@ New Tecumseth,2,2
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
-East Gwillimbury,2,2
+Georgina,2,5
+East Gwillimbury,2,1
 Champlain,2,2
 Centre Hastings,2,2
 Brockton,2,2
