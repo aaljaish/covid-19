@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,436,1096
-Ottawa,153,329
-Mississauga,152,147
-Brampton,147,120
+Toronto,433,1085
+Ottawa,155,336
+Mississauga,145,124
+Brampton,143,114
 Hamilton,71,171
-Vaughan,46,159
+Vaughan,42,131
 Markham,27,74
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
-Richmond Hill,22,43
+Richmond Hill,22,44
 Kitchener,22,28
 Milton,21,76
-Caledon,21,29
+Caledon,21,22
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -57,12 +57,13 @@ Russell,3,5
 North Glengarry,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
+Georgina,3,6
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
 Whitchurch-Stouffville,2,9
 Whitchurch - Stouffville,2,4
-The Nation,2,2
+The Nation,2,3
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -75,7 +76,6 @@ New Tecumseth,2,2
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
-Georgina,2,5
 East Gwillimbury,2,1
 Champlain,2,2
 Centre Hastings,2,2
