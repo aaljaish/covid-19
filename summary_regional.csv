@@ -1,18 +1,18 @@
 Municipality,School,Total_Confirmed_Cases
-Toronto,433,1085
-Ottawa,155,336
-Mississauga,145,124
-Brampton,143,114
+Toronto,427,1084
+Mississauga,142,121
+Brampton,142,112
+Ottawa,141,301
 Hamilton,71,171
 Vaughan,42,131
-Markham,27,74
 Oshawa,26,48
+Markham,26,73
 Ajax,25,74
 Oakville,24,53
-Richmond Hill,22,44
 Kitchener,22,28
+Richmond Hill,21,40
 Milton,21,76
-Caledon,21,22
+Caledon,20,21
 Whitby,19,40
 London,18,32
 Pickering,17,50
@@ -76,7 +76,6 @@ New Tecumseth,2,2
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
-East Gwillimbury,2,1
 Champlain,2,2
 Centre Hastings,2,2
 Brockton,2,2
@@ -115,6 +114,7 @@ Goderich,1,1
 Fort Erie,1,4
 Enniskillen,1,1
 East Hawkesbury,1,3
+East Gwillimbury,1,0
 Dryden,1,2
 Cobourg,1,10
 Central Elgin,1,6

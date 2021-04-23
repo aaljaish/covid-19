@@ -195,8 +195,7 @@ Springdale Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 St Anthony School,Brampton,Dufferin-Peel CDSB,Elementary,2,0,2,Active
 St Augustine Secondary School,Brampton,Dufferin-Peel CDSB,Secondary,0,1,1,Active
 St Joachim Separate School,Brampton,Dufferin-Peel CDSB,Elementary,0,1,1,Active
-St Thomas Aquinas Secondary School,Brampton,Dufferin-Peel CDSB,Secondary,2,0,2,Active
-St. Josephine Bakhita Catholic Elementary School,Brampton,Dufferin-Peel CDSB,Elementary,1,0,1,Active
+St. Marguerite d'Youville Secondary School,Brampton,Dufferin-Peel CDSB,Secondary,0,1,1,Active
 Stanley Mills Public School,Brampton,Peel DSB,Elementary,0,0,3,Active
 Sunny View Middle School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Terry Fox Public School,Brampton,Peel DSB,Elementary,0,0,7,Active
@@ -259,7 +258,6 @@ Caledon Central Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Caledon East Public School,Caledon,Peel DSB,Elementary,0,0,3,Active
 Ellwood Memorial Public School,Caledon,Peel DSB,Elementary,0,0,2,Active
 Herb Campbell Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
-Holy Family School,Caledon,Dufferin-Peel CDSB,Elementary,1,0,1,Active
 Humberview Secondary School,Caledon,Peel DSB,Secondary,0,0,0,Active
 James Bolton Public School,Caledon,Peel DSB,Elementary,0,0,1,Active
 Macville Public School,Caledon,Peel DSB,Elementary,0,0,1,Active
@@ -338,7 +336,6 @@ St Joseph's Secondary School,Cornwall,CDSB of Eastern Ontario,Secondary,1,0,1,Ac
 Ã‰cole Ã©lÃ©mentaire publique Rose des Vents,Cornwall,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,1,0,1,Active
 Dryden High School,Dryden,Keewatin-Patricia DSB,Secondary,2,0,2,Active
 Mount Albert Public School,East Gwillimbury,York Region DSB,Elementary,0,0,0,Active
-Our Lady of Good Counsel Catholic Elementary School,East Gwillimbury,York CDSB,Elementary,0,0,1,Active
 Ã‰cole Ã©lÃ©mentaire catholique CurÃ©-Labrosse,East Hawkesbury,CSDC de l'Est ontarien,Elementary,3,0,3,Active
 Lambton Central Centennial School,Enniskillen,Lambton Kent DSB,Elementary,1,0,1,Active
 Our Lady of Victory Catholic Elementary School,Fort Erie,Niagara CDSB,Elementary,4,0,4,Active
@@ -544,7 +541,6 @@ Reesor Park Public School,Markham,York Region DSB,Elementary,0,0,1,Active
 St Benedict Catholic Elementary School,Markham,York CDSB,Elementary,0,0,1,Active
 St Francis Xavier Catholic Elementary School,Markham,York CDSB,Elementary,0,0,2,Active
 St Matthew Catholic Elementary School,Markham,York CDSB,Elementary,0,0,1,Active
-St Robert Catholic High School,Markham,York CDSB,Secondary,0,0,1,Active
 St. Joseph CES - Markham,Markham,York CDSB,Elementary,0,0,3,Active
 St. Patrick CES - Markham,Markham,York CDSB,Elementary,0,0,2,Active
 Thornhill Secondary School,Markham,York Region DSB,Secondary,0,0,7,Active
@@ -661,7 +657,6 @@ Nahani Way Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Oakridge Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Oscar Peterson Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Osprey Woods Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-Our Lady of Mount Carmel Secondary School,Mississauga,Dufferin-Peel CDSB,Secondary,1,0,1,Active
 Owenwood Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 PCC/Glenhaven SnrPS,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Peel Alternative - South Elementary,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -692,10 +687,8 @@ Silverthorn Public School,Mississauga,Peel DSB,Elementary,0,0,3,Active
 Springfield Public School,Mississauga,Peel DSB,Elementary,0,0,14,Active
 St Albert of Jerusalem Elementary School,Mississauga,Dufferin-Peel CDSB,Elementary,1,0,1,Active
 St Aloysius Gonzaga Secondary School,Mississauga,Dufferin-Peel CDSB,Secondary,1,0,1,Active
-St Bernadette Elementary School,Mississauga,Dufferin-Peel CDSB,Elementary,1,0,1,Active
 St Faustina Elementary School,Mississauga,Dufferin-Peel CDSB,Elementary,1,0,1,Active
 St Gregory Elementary School,Mississauga,Dufferin-Peel CDSB,Elementary,1,0,1,Active
-St. Francis Xavier Secondary School,Mississauga,Dufferin-Peel CDSB,Secondary,1,0,1,Active
 St. John XXIII Catholic Elementary School,Mississauga,Dufferin-Peel CDSB,Elementary,0,1,1,Active
 Stephen Lewis Secondary School,Mississauga,Peel DSB,Secondary,0,0,4,Active
 Streetsville Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
@@ -802,28 +795,23 @@ Sherwood Public School,Oshawa,Durham DSB,Elementary,3,0,3,Active
 St Kateri Tekakwitha Catholic School,Oshawa,Durham CDSB,Elementary,1,1,2,Active
 St Thomas Aquinas Catholic School,Oshawa,Durham CDSB,Elementary,2,0,2,Active
 Sunset Heights Public School,Oshawa,Durham DSB,Elementary,1,0,1,Active
-A. Lorne Cassidy Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 A.Y. Jackson Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
-Adrienne Clarkson Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,4,1,5,Active
+Adrienne Clarkson Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,3,0,3,Active
 Agincourt Road Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,1,3,Active
 All Saints Catholic High School,Ottawa,Ottawa CDSB,Secondary,1,0,1,Active
 Alta Vista Public School,Ottawa,Ottawa-Carleton DSB,Elementary,4,0,4,Active
 Assumption Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,2,2,4,Active
-Avalon Public School,Ottawa,Ottawa-Carleton DSB,Elementary,3,0,3,Active
-Bayshore Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,2,2,Active
-Bell High School,Ottawa,Ottawa-Carleton DSB,Secondary,2,0,2,Active
-Bells Corners Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Blossom Park PS,Ottawa,Ottawa-Carleton DSB,Elementary,8,1,9,Active
+Avalon Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
+Bayshore Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,1,2,Active
+Bell High School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
+Blossom Park PS,Ottawa,Ottawa-Carleton DSB,Elementary,7,0,7,Active
 Board Site,Ottawa,CSDC du Centre-Est de l'Ontario,Office,0,2,2,Active
-Bridlewood Community Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Cairine Wilson Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
-Canterbury High School,Ottawa,Ottawa-Carleton DSB,Secondary,3,1,4,Active
-Castor Valley Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
-Cedarview Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
+Canterbury High School,Ottawa,Ottawa-Carleton DSB,Secondary,0,1,1,Active
 Centennial Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Centre de traitement le jour - Le Transit,Ottawa,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,0,1,1,Active
 Chapman Mills Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,3,1,4,Active
-Connaught Public School,Ottawa,Ottawa-Carleton DSB,Elementary,4,3,7,Active
+Connaught Public School,Ottawa,Ottawa-Carleton DSB,Elementary,4,1,5,Active
 Convent Glen Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 Corpus Christi Elementary School,Ottawa,Ottawa CDSB,Elementary,5,1,6,Active
 Crystal Bay Centre for Special,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
@@ -835,7 +823,6 @@ Fielding Drive Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Forest Valley Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Frank Ryan Catholic Intermediate School,Ottawa,Ottawa CDSB,Elementary,4,0,4,Active
 Georges Vanier Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
-Glashan Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Glen Cairn Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Glen Ogilvie Public School,Ottawa,Ottawa-Carleton DSB,Elementary,3,1,4,Active
 Gloucester High School,Ottawa,Ottawa-Carleton DSB,Secondary,3,1,4,Active
@@ -846,33 +833,28 @@ Holy Cross Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 Holy Redeemer Elementary School,Ottawa,Ottawa CDSB,Elementary,2,0,2,Active
 Holy Spirit Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 Holy Trinity Catholic High School,Ottawa,Ottawa CDSB,Secondary,2,0,2,Active
-Hopewell Avenue PS,Ottawa,Ottawa-Carleton DSB,Elementary,1,2,3,Active
-Huntley Centennial Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Immaculata High School,Ottawa,Ottawa CDSB,Secondary,6,0,6,Active
 Jockvale Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 John McCrae Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
 John Young Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,3,1,4,Active
 Kanata Highlands Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
-Kars on the Rideau Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Katimavik Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Lester B Pearson Catholic High School,Ottawa,Ottawa CDSB,Secondary,1,0,1,Active
 Longfields Davidson Heights SS,Ottawa,Ottawa-Carleton DSB,Secondary,3,0,3,Active
 Manor Park Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Merivale High School,Ottawa,Ottawa-Carleton DSB,Secondary,3,0,3,Active
 Metcalfe Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Mutchmor Public School,Ottawa,Ottawa-Carleton DSB,Elementary,3,0,3,Active
+Mutchmor Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 Nepean High School,Ottawa,Ottawa-Carleton DSB,Secondary,3,0,3,Active
 Our Lady of Fatima Elementary School,Ottawa,Ottawa CDSB,Elementary,3,0,3,Active
 Our Lady of Mount Carmel Elementary School,Ottawa,Ottawa CDSB,Elementary,0,4,4,Active
-Pinecrest Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Richmond Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
-Ridgemont High School,Ottawa,Ottawa-Carleton DSB,Secondary,4,0,4,Active
+Ridgemont High School,Ottawa,Ottawa-Carleton DSB,Secondary,2,0,2,Active
 Robert Bateman Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Roberta Bondar Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Sacred Heart Intermediate School,Ottawa,Ottawa CDSB,Elementary,4,4,8,Active
 Sawmill Creek Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,4,1,5,Active
 Severn Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Sir Guy Carleton Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,2,3,Active
+Sir Guy Carleton Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,1,2,Active
 Sir Robert Borden High School,Ottawa,Ottawa-Carleton DSB,Secondary,2,0,2,Active
 Sir Wilfrid Laurier Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
 South Carleton High School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
@@ -905,15 +887,12 @@ St Philip Elementary School,Ottawa,Ottawa CDSB,Elementary,1,1,2,Active
 St Pius X High School,Ottawa,Ottawa CDSB,Secondary,2,1,3,Active
 St Stephen Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 St Thomas More Elementary School,Ottawa,Ottawa CDSB,Elementary,1,1,2,Active
-Steve MacLean Public School,Ottawa,Ottawa-Carleton DSB,Elementary,4,0,4,Active
+Steve MacLean Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 Summerside Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
-Trillium E S,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Vimy Ridge Public School,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 Vincent Massey Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 WE Gowling Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Westwind Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Woodroffe Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,1,2,Active
-Woodroffe HS,Ottawa,Ottawa-Carleton DSB,Secondary,1,1,2,Active
+Woodroffe HS,Ottawa,Ottawa-Carleton DSB,Secondary,0,1,1,Active
 Ã‰ Ã‰lÃ©m C Bernard-GrandmaÃ®tre,Ottawa,CSDC du Centre-Est de l'Ontario,Elementary,1,0,1,Active
 Ã‰cole intermÃ©diaire catholique BÃ©atrice-Desloges,Ottawa,CSDC du Centre-Est de l'Ontario,Elementary,2,0,2,Active
 Ã‰cole intermÃ©diaire catholique Franco-CitÃ©,Ottawa,CSDC du Centre-Est de l'Ontario,Elementary,4,0,4,Active
@@ -998,7 +977,6 @@ Trent River Public School,Quinte West,Hastings & Prince Edward DSB,Elementary,1,
 Alexander MacKenzie High School,Richmond Hill,York Region DSB,Secondary,0,0,1,Active
 Bayview Secondary School,Richmond Hill,York Region DSB,Secondary,0,0,3,Active
 Bond Lake Public School,Richmond Hill,York Region DSB,Elementary,0,0,1,Active
-Christ the King Catholic Elementary School,Richmond Hill,York CDSB,Elementary,0,0,4,Active
 Corpus Christi Catholic Elementary School,Richmond Hill,York CDSB,Elementary,0,0,2,Active
 Father Henri J M Nouwen Catholic Elementary School,Richmond Hill,York CDSB,Elementary,0,0,7,Active
 H.G. Bernard Public School,Richmond Hill,York Region DSB,Elementary,0,0,1,Active
@@ -1102,7 +1080,6 @@ Bishop Allen Academy Catholic Secondary School,Toronto,Toronto CDSB,Secondary,4,
 Bishop Marrocco / Thomas Merton Catholic Secondary School,Toronto,Toronto CDSB,Secondary,4,0,4,Active
 Blantyre Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Blessed Pier Giorgio Frassati Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
-Bliss Carman Senior Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Bloor Collegiate Institute,Toronto,Toronto DSB,Secondary,1,0,1,Active
 Bloordale Middle School,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Bloorlea Middle school,Toronto,Toronto DSB,Elementary,2,0,2,Active
@@ -1148,7 +1125,6 @@ Cordella Junior Public School,Toronto,Toronto DSB,Elementary,6,1,7,Active
 Corvette Junior Public School,Toronto,Toronto DSB,Elementary,2,1,3,Active
 Cosburn Middle School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Courcelette Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
-Crescent Town Elementary School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Cummer Valley Middle School,Toronto,Toronto DSB,Elementary,4,0,4,Active
 D A Morrison Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 D'Arcy McGee Catholic School,Toronto,Toronto CDSB,Elementary,4,1,5,Active
@@ -1166,7 +1142,8 @@ Diefenbaker Elementary School,Toronto,Toronto DSB,Elementary,0,2,2,Active
 Dixon Grove Junior Middle School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Don Mills Collegiate Institute,Toronto,Toronto DSB,Secondary,4,1,5,Active
 Don Valley Middle School,Toronto,Toronto DSB,Elementary,1,1,2,Active
-Donview Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
+Donview Middle School,Toronto,Toronto DSB,Elementary,2,0,2,Active
+Donwood Park Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Downsview Secondary School,Toronto,Toronto DSB,Secondary,0,1,1,Active
 Dr Marion Hilliard Senior Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Drewry Secondary School,Toronto,Toronto DSB,Secondary,1,0,1,Active
@@ -1184,7 +1161,7 @@ Elia Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Elizabeth Simcoe Junior Public School,Toronto,Toronto DSB,Elementary,1,2,3,Active
 Elkhorn Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Ellesmere-Statton Public School,Toronto,Toronto DSB,Elementary,6,0,6,Active
-Elmbank Junior Middle Academy,Toronto,Toronto DSB,Elementary,1,0,1,Active
+Elmbank Junior Middle Academy,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Elmlea Junior School,Toronto,Toronto DSB,Elementary,2,1,3,Active
 Emery Adult Learning Centre,Toronto,Toronto DSB,Secondary,2,1,3,Active
 Emery Collegiate Institute,Toronto,Toronto DSB,Secondary,4,0,4,Active
@@ -1242,7 +1219,7 @@ Holy Name Catholic School,Toronto,Toronto CDSB,Elementary,2,0,2,Active
 Holy Rosary Catholic School,Toronto,Toronto CDSB,Elementary,2,1,3,Active
 Holy Spirit Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
 Howard Junior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
-Humber Summit Middle School,Toronto,Toronto DSB,Elementary,5,0,5,Active
+Humber Summit Middle School,Toronto,Toronto DSB,Elementary,6,0,6,Active
 Humberside Collegiate Institute,Toronto,Toronto DSB,Secondary,5,0,5,Active
 Humberwood Downs Junior Middle Academy,Toronto,Toronto DSB,Elementary,2,1,3,Active
 Humewood House,Toronto,Toronto DSB,Secondary,2,0,2,Active
@@ -1253,7 +1230,6 @@ Indian Road Crescent Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,A
 Islington Junior Middle School,Toronto,Toronto DSB,Elementary,1,2,3,Active
 J G Workman Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 J R Wilcox Community School,Toronto,Toronto DSB,Elementary,1,0,1,Active
-Jack Miner Senior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 James Culnan Catholic School,Toronto,Toronto CDSB,Elementary,4,2,6,Active
 James S Bell Junior Middle School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 John A Leslie Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
@@ -1265,7 +1241,6 @@ John Polanyi Public School,Toronto,Toronto DSB,Secondary,0,2,2,Active
 John Ross Robertson Junior Public School,Toronto,Toronto DSB,Elementary,3,1,4,Active
 John Wanless Junior Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Joseph Brant Senior Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
-Joseph Howe Senior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Joyce Public School,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Karen Kain School of the Arts,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Keele Street Public School,Toronto,Toronto DSB,Elementary,3,1,4,Active
@@ -1279,14 +1254,13 @@ Kipling Collegiate Institute,Toronto,Toronto DSB,Secondary,3,1,4,Active
 L'Amoreaux Collegiate Institute,Toronto,Toronto DSB,Secondary,1,0,1,Active
 Lakeshore Collegiate Institute,Toronto,Toronto DSB,Secondary,1,0,1,Active
 Lamberton Public School,Toronto,Toronto DSB,Elementary,2,1,3,Active
-Lanor Junior Middle School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Lawrence Heights Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Lawrence Park Collegiate Institute,Toronto,Toronto DSB,Secondary,2,0,2,Active
 Leaside High School,Toronto,Toronto DSB,Secondary,1,0,1,Active
 Ledbury Park Elementary and Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Lescon Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Lester B Pearson Collegiate Institute,Toronto,Toronto DSB,Secondary,5,0,5,Active
-Lester B Pearson Elementary School,Toronto,Toronto DSB,Elementary,2,0,2,Active
+Lester B Pearson Elementary School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Lillian Public School,Toronto,Toronto DSB,Elementary,6,0,6,Active
 Lord Dufferin Junior and Senior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 Lord Lansdowne Junior Public School,Toronto,Toronto DSB,Elementary,7,0,7,Active
@@ -1315,7 +1289,6 @@ Monsignor Fraser College,Toronto,Toronto CDSB,Secondary,1,0,1,Active
 Monsignor Fraser College (Norfinch),Toronto,Toronto CDSB,Secondary,1,0,1,Active
 Morse Street Public School,Toronto,Toronto DSB,Elementary,5,0,5,Active
 Muirhead Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
-Native Learning Centre East,Toronto,Toronto DSB,Secondary,1,0,1,Active
 Neil McNeil High School,Toronto,Toronto CDSB,Secondary,7,0,7,Active
 Nelson Mandela Park Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Newtonbrook Secondary School,Toronto,Toronto DSB,Secondary,4,1,5,Active
@@ -1335,6 +1308,7 @@ O'Connor Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Oakdale Park Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Oakridge Junior Public School,Toronto,Toronto DSB,Elementary,5,1,6,Active
 Orde Street Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
+Oriole Park Junior Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Ossington/Old Orchard Junior Public School,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Our Lady of Guadalupe Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
 Our Lady of Perpetual Help Catholic School,Toronto,Toronto CDSB,Elementary,0,1,1,Active
@@ -1348,7 +1322,6 @@ Parkfield Junior School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Pauline Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Pelmo Park Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Pleasant View Middle School,Toronto,Toronto DSB,Elementary,5,0,5,Active
-Poplar Road Junior Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 Port Royal Public School,Toronto,Toronto DSB,Elementary,2,1,3,Active
 Precious Blood Catholic School,Toronto,Toronto CDSB,Elementary,2,1,3,Active
 Queen Alexandra Middle School,Toronto,Toronto DSB,Elementary,0,1,1,Active
@@ -1381,13 +1354,12 @@ Shaughnessy Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 Sheppard Public School,Toronto,Toronto DSB,Elementary,2,2,4,Active
 Shirley Street Junior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 Shoreham Public School,Toronto,Toronto DSB,Elementary,0,1,1,Active
-Silverthorn Community School,Toronto,Toronto DSB,Elementary,2,2,4,Active
+Silverthorn Community School,Toronto,Toronto DSB,Elementary,2,3,5,Active
 Sir Alexander Mackenzie Senior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Sir Ernest Macmillan Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Sir John A Macdonald Collegiate Institute,Toronto,Toronto DSB,Secondary,6,1,7,Active
 Sir Oliver Mowat Collegiate Institute,Toronto,Toronto DSB,Secondary,3,1,4,Active
-Sir Wilfred Laurier Collegiate Institute,Toronto,Toronto DSB,Secondary,3,0,3,Active
-Sloane Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
+Sloane Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Sprucecourt Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 St Agatha Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
 St Alphonsus Catholic School,Toronto,Toronto CDSB,Elementary,2,0,2,Active
@@ -1452,7 +1424,7 @@ Sts Cosmas and Damian Catholic School,Toronto,Toronto CDSB,Elementary,0,1,1,Acti
 Summit Heights Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Sunny View Junior and Senior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 Tam O'Shanter Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
-Taylor Creek Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
+Taylor Creek Public School,Toronto,Toronto DSB,Elementary,3,1,4,Active
 Tecumseh Senior Public School,Toronto,Toronto DSB,Elementary,3,0,3,Active
 Terraview-Willowfield Public School,Toronto,Toronto DSB,Elementary,2,0,2,Active
 The Holy Trinity Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
@@ -1473,7 +1445,7 @@ Walter Perry Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 West Hill Collegiate Institute,Toronto,Toronto DSB,Secondary,0,1,1,Active
 West Hill Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 West Humber CI,Toronto,Toronto DSB,Secondary,4,1,5,Active
-West Preparatory Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
+West Preparatory Junior Public School,Toronto,Toronto DSB,Elementary,1,1,2,Active
 Westmount Junior School,Toronto,Toronto DSB,Elementary,2,2,4,Active
 Weston Memorial Junior Public School,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Westview Centennial Secondary School,Toronto,Toronto DSB,Secondary,3,0,3,Active
@@ -1493,7 +1465,7 @@ Withrow Avenue Junior Public School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 Woburn Collegiate Institute,Toronto,Toronto DSB,Secondary,3,0,3,Active
 Woodbine Middle School,Toronto,Toronto DSB,Elementary,1,0,1,Active
 York Memorial Collegiate Institute,Toronto,Toronto DSB,Secondary,2,0,2,Active
-York Mills Collegiate Institute,Toronto,Toronto DSB,Secondary,2,0,2,Active
+York Mills Collegiate Institute,Toronto,Toronto DSB,Secondary,2,1,3,Active
 Yorkdale Adult Learning Centre,Toronto,Toronto DSB,Secondary,3,0,3,Active
 Zion Heights Middle School,Toronto,Toronto DSB,Elementary,3,1,4,Active
 Ã‰cole Secondaire Toronto Ouest,Toronto,CS Viamonde,Secondary,1,0,1,Active
@@ -1845,6 +1817,7 @@ Open Roads Public School,Dryden,Keewatin-Patricia DSB,Elementary,All resolved,Al
 Haliburton Highland Secondary School,Dysart Et Al,Trillium Lakelands DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Good Shepherd Catholic Elementary School,East Gwillimbury,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Holland Landing Public School,East Gwillimbury,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Our Lady of Good Counsel Catholic Elementary School,East Gwillimbury,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Park Avenue Public School,East Gwillimbury,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Phoebe Gilman Public School,East Gwillimbury,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Tavistock Public School,East Zorra-Tavistock,Thames Valley DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2248,6 +2221,7 @@ St Justin Martyr Catholic Elementary School,Markham,York CDSB,Elementary,All res
 St Kateri Tekakwitha Catholic Elementary School,Markham,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Monica Catholic Elementary School,Markham,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Rene Goupil-St Luke Catholic Elementary School,Markham,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+St Robert Catholic High School,Markham,York CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Stonebridge Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Stornoway Crescent Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Thornlea Secondary School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -2438,18 +2412,23 @@ Walter E Harris Public School,Oshawa,Durham DSB,Elementary,All resolved,All reso
 Waverly Public School,Oshawa,Durham DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Woodcrest Public School,Oshawa,Durham DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Ã‰cole Ã‰lÃ©mentaire Antonine-Maillet,Oshawa,CS Viamonde,Elementary,All resolved,All resolved,All resolved,Resolved
+A. Lorne Cassidy Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Adult High School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Barrhaven Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bayshore Continuing Ed program,Ottawa,Ottawa-Carleton DSB,,All resolved,All resolved,All resolved,Resolved
 Bayview Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Bells Corners Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Berrigan E S,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Briargreen Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Bridlewood Community Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Broadview Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Brookfield High School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Cambridge Street Community PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Carleton Heights Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Carson Grove Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Castlefrank Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Castor Valley Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Cedarview Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Centre Jules-LÃ©ger Ã‰A DifficultÃ©,Ottawa,Provincial and Demonstration Schools,Elementary,All resolved,All resolved,All resolved,Resolved
 Centre Jules-LÃ©ger Ã‰A DifficultÃ©,Ottawa,Provincial and Demonstration Schools,Secondary,All resolved,All resolved,All resolved,Resolved
 Centre Jules-LÃ©ger Ã‰P SurditÃ© palier,Ottawa,Provincial and Demonstration Schools,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2470,6 +2449,7 @@ Featherston Drive PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All reso
 First Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Fisher Park/Summit AS Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Frederick Banting Secondary Alternate Pr,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Glashan Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Glebe Collegiate Institute,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Good Shepherd Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Goulbourn Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2479,7 +2459,10 @@ Hawthorne Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All r
 Henry Larsen Elementry School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Hillcrest High School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Holy Family Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Hopewell Avenue PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Huntley Centennial Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Jack Donohue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Kars on the Rideau Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Knoxdale Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lester B. Pearson Catholic Intermediate School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lisgar Collegiate Institute,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -2496,6 +2479,7 @@ Osgoode Township High School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,A
 Ottawa Technical Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Ottawa Technical Secondary School / Storefront (Special Education),Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Victory Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Pinecrest Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Pleasant Park Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Prince of Peace Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Queen Elizabeth Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2505,6 +2489,7 @@ Richard Pfaff Secondary Alternate Site,Ottawa,Ottawa-Carleton DSB,Secondary,All 
 Riverview Alternative School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Robert E.  Wilson Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Robert Hopkins Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Roberta Bondar Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Roch Carrier Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Rockcliffe Park Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Roland Michener Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2543,9 +2528,12 @@ Steps to Success - M F McHugh Edn Ctr,Ottawa,Ottawa CDSB,Elementary,All resolved
 Stittsville Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Terry Fox Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Thomas D'Arcy McGee Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Trillium E S,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Viscount Alexander PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 WO Mitchell E S,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 West Carleton Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Westwind Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Woodroffe Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Ã‰ Ã‰lÃ©m C Sainte-Anne,Ottawa,CSDC du Centre-Est de l'Ontario,Elementary,All resolved,All resolved,All resolved,Resolved
 Ã‰cole catholique Ã‰du. permanente et alternative - Soir,Ottawa,CSDC du Centre-Est de l'Ontario,Secondary,All resolved,All resolved,All resolved,Resolved
 Ã‰cole intermÃ©diaire catholique Garneau,Ottawa,CSDC du Centre-Est de l'Ontario,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2641,6 +2629,7 @@ Bayview Hill Public School,Richmond Hill,York Region DSB,Elementary,All resolved
 Beverley Acres Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Beynon Fields Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Charles Howitt Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Christ the King Catholic Elementary School,Richmond Hill,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Crosby Heights Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Doncrest Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Father Frederick McGinn Catholic Elementary School,Richmond Hill,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2808,6 +2797,7 @@ Blaydon Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,A
 Blessed Margherita of Citta Castello Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Blessed Sacrament Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Blessed Trinity Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Bliss Carman Senior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bloorview School Authority,Toronto,Bloorview SA,Elementary,All resolved,All resolved,All resolved,Resolved
 Blythwood Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Brimwood Boulevard Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2836,6 +2826,7 @@ Claude Watson School for the Arts,Toronto,Toronto DSB,Elementary,All resolved,Al
 CollÃ¨ge franÃ§ais secondaire,Toronto,CS Viamonde,Secondary,All resolved,All resolved,All resolved,Resolved
 CollÃ¨ge franÃ§ais Ã©lÃ©mentaire,Toronto,CS Viamonde,Elementary,All resolved,All resolved,All resolved,Resolved
 Cornell Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Crescent Town Elementary School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Cresthaven Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Crestview Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Dallington Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2844,7 +2835,6 @@ Dante Alighieri Academy Catholic Secondary School,Toronto,Toronto CDSB,Secondary
 Davisville Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Delphi Secondary Alternative School,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Don Mills Middle School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
-Donwood Park Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Dorset Park Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Dovercourt Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Downsview Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2903,12 +2893,14 @@ Inglenook Community School,Toronto,Toronto DSB,Secondary,All resolved,All resolv
 Inglewood Heights Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Ionview Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 J B Tyrrell Senior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Jack Miner Senior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 James Cardinal McGuigan Catholic High School,Toronto,Toronto CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Jarvis Collegiate Institute,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Jesse Ketchum Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 John Buchan Senior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 John Fisher Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 John G Althouse Middle School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Joseph Howe Senior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Josyf Cardinal Slipyj Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Kapapamahchakwew - Wandering Spirit Scho,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Kennedy Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2916,6 +2908,7 @@ Kensington Community School School Junior,Toronto,Toronto DSB,Elementary,All res
 Knob Hill Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lambton Kingsway Junior Middle School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lambton Park Community School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Lanor Junior Middle School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Leslieville Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Loretto Abbey Catholic School,Toronto,Toronto CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Lucy Maud Montgomery Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2939,12 +2932,12 @@ Mountview Alternative School,Toronto,Toronto DSB,Elementary,All resolved,All res
 Msgr Fraser College (Alternate Study) Secondary School,Toronto,Toronto CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Msgr Fraser College (Isabella Campus),Toronto,Toronto CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Msgr Fraser-Midland,Toronto,Toronto CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Native Learning Centre East,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Nativity of Our Lord Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Niagara Street Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 North Bendale Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Norway Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Oakwood Collegiate Institute,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
-Oriole Park Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Fatima Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Lourdes Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Peace,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2960,6 +2953,7 @@ Pierre Laporte Middle School,Toronto,Toronto DSB,Elementary,All resolved,All res
 Pineway Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Pleasant Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Pope St Francis Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Poplar Road Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Portage Trail Community School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Princess Margaret Junior School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 R.H. King Academy,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -2982,6 +2976,7 @@ Seneca School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resol
 Silver Springs Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Silverthorn Collegiate Institute,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Sir Adam Beck Junior School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Sir Wilfred Laurier Collegiate Institute,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Sir William Osler High School,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Smithfield Middle School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Agnes Catholic School,Toronto,Toronto CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
