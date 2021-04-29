@@ -1,10 +1,9 @@
 Municipality,School,Total_Confirmed_Cases
-Ottawa,137,263
-Brampton,136,101
-Mississauga,133,110
+Brampton,136,90
+Mississauga,132,104
+Ottawa,131,252
 Toronto,100,218
 Hamilton,71,171
-Vaughan,27,97
 Oshawa,26,48
 Ajax,25,74
 Oakville,24,53
@@ -12,15 +11,14 @@ Kitchener,22,28
 Milton,21,76
 Whitby,19,40
 London,18,32
-Caledon,18,20
+Caledon,18,16
 Pickering,17,50
-Markham,16,50
 Brantford,16,35
+Vaughan,15,64
 Barrie,15,20
 Windsor,14,20
 Cambridge,14,16
 Burlington,14,16
-Richmond Hill,13,28
 Clarington,12,19
 Welland,11,32
 Niagara Falls,11,23
@@ -28,11 +26,12 @@ Chatham-Kent,11,15
 Sarnia,10,21
 Bradford West Gwillimbury,10,19
 St. Catharines,9,13
+Markham,9,38
 Halton Hills,9,14
 Cornwall,9,11
+Richmond Hill,8,20
 Guelph,8,13
 Waterloo,7,9
-Newmarket,6,10
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
@@ -55,12 +54,13 @@ South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
 North Glengarry,3,7
+Newmarket,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
-The Nation,2,3
+The Nation,2,2
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -79,7 +79,6 @@ Centre Hastings,2,2
 Brockton,2,2
 Whitchurch-Stouffville	,1,1
 Whitchurch-Stouffville,1,1
-Whitchurch - Stouffville,1,3
 Trent Hills,1,1
 The Blue Mountains,1,2
 Strathroy-Caradoc,1,1
