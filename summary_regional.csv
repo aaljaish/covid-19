@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
-Brampton,136,57
-Mississauga,132,82
+Brampton,136,58
+Mississauga,132,78
 Toronto,100,218
-Ottawa,91,194
+Ottawa,92,195
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -16,7 +16,6 @@ Pickering,17,50
 Brantford,16,35
 Barrie,15,20
 Windsor,14,20
-Vaughan,14,56
 Cambridge,14,16
 Burlington,14,16
 Clarington,12,19
@@ -30,8 +29,8 @@ Halton Hills,9,14
 Cornwall,9,11
 Guelph,8,13
 Waterloo,7,9
-Richmond Hill,7,17
-Markham,7,35
+Vaughan,6,17
+Markham,6,32
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
@@ -39,7 +38,6 @@ Lakeshore,5,6
 Kingston,5,6
 Haldimand County,5,16
 Belleville,5,8
-Aurora,5,8
 Timmins,4,4
 Thorold,4,4
 Peterborough,4,7
@@ -53,12 +51,13 @@ Uxbridge,3,14
 South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
+Richmond Hill,3,3
 North Glengarry,3,7
-Newmarket,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
+Aurora,3,2
 Wilmot,2,3
 St. Thomas,2,4
 Sault Ste. Marie,2,3
@@ -68,11 +67,11 @@ Pembroke,2,2
 Pelham,2,4
 North Middlesex,2,2
 Norfolk County,2,6
+Newmarket,2,2
 New Tecumseth,2,2
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
-Georgina,2,3
 Champlain,2,2
 Centre Hastings,2,2
 Brockton,2,2
