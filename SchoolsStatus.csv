@@ -189,7 +189,7 @@ Sunny View Middle School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Terry Fox Public School,Brampton,Peel DSB,Elementary,0,0,7,Active
 Thorndale Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Treeline Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Tribune Drive Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
+Tribune Drive Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Turner Fenton Secondary School,Brampton,Peel DSB,Secondary,0,0,0,Active
 Walnut Grove Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Westervelts Corners Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
@@ -571,7 +571,7 @@ Erindale Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 ErinoakKids - Edenrose,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Fairview Public School,Mississauga,Peel DSB,Elementary,0,0,5,Active
 Fairwind Senior Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-Fallingbrook Middle School,Mississauga,Peel DSB,Elementary,0,0,1,Active
+Fallingbrook Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Fletcher's Meadow Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Floradale Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Forest Avenue Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -744,14 +744,11 @@ St Thomas Aquinas Catholic School,Oshawa,Durham CDSB,Elementary,2,0,2,Active
 Sunset Heights Public School,Oshawa,Durham DSB,Elementary,1,0,1,Active
 All Saints Catholic High School,Ottawa,Ottawa CDSB,Secondary,1,0,1,Active
 Assumption Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,2,2,4,Active
-Bayshore Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Berrigan E S,Ottawa,Ottawa-Carleton DSB,Elementary,2,0,2,Active
 Board Site,Ottawa,CSDC du Centre-Est de l'Ontario,Office,0,2,2,Active
 Centre de traitement le jour - Le Transit,Ottawa,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,0,1,1,Active
 Clifford Bowey Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Corpus Christi Elementary School,Ottawa,Ottawa CDSB,Elementary,5,1,6,Active
 Dr F J McDonald Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
-Farley Mowat Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Frank Ryan Catholic Intermediate School,Ottawa,Ottawa CDSB,Elementary,4,0,4,Active
 Georges Vanier Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 Holy Cross Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
@@ -2059,9 +2056,11 @@ Alta Vista Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All 
 Avalon Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Barrhaven Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bayshore Continuing Ed program,Ottawa,Ottawa-Carleton DSB,,All resolved,All resolved,All resolved,Resolved
+Bayshore Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bayview Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bell High School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Bells Corners Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Berrigan E S,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Blossom Park PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Briargreen Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bridlewood Community Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2097,6 +2096,7 @@ Elgin Street Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,Al
 Elizabeth Wyn Wood Secondary Alternate,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Emily Carr Middle SChool,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Fallingbrook Community Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Farley Mowat Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Featherston Drive PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Fielding Drive Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 First Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
