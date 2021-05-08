@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
-Brampton,136,88
-Mississauga,132,105
-Ottawa,110,223
+Brampton,136,81
+Mississauga,132,104
 Toronto,100,218
+Ottawa,95,199
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -28,10 +28,10 @@ Bradford West Gwillimbury,10,19
 St. Catharines,9,13
 Halton Hills,9,14
 Cornwall,9,11
-Markham,8,37
 Guelph,8,13
 Waterloo,7,9
 Richmond Hill,7,17
+Markham,7,35
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
