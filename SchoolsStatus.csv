@@ -155,7 +155,7 @@ Nelson Mandela P.S. (Elementary),Brampton,Peel DSB,Elementary,0,0,0,Active
 North Field Office,Brampton,Peel DSB,Board Office,0,0,1,Active
 North Park Secondary School,Brampton,Peel DSB,Secondary,0,0,0,Active
 Northwood Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Parkholme Secondary School,Brampton,Peel DSB,Secondary,0,0,1,Active
+Parkholme Secondary School,Brampton,Peel DSB,Secondary,0,0,2,Active
 Parkway Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Peel Alternative - North Elementary,Brampton,Peel DSB,Elementary,0,0,0,Active
 Peel Alternative North,Brampton,Peel DSB,Secondary,0,0,0,Active
@@ -642,7 +642,7 @@ Ruth Thompson Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Sawmill Valley Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 School Board Partners,Mississauga,Peel DSB,Partner organizations (e.g. bus drivers),0,0,13,Active
 Settler's Green Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
-Shelter Bay Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Shelter Bay Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Sheridan Park Public School,Mississauga,Peel DSB,Elementary,0,0,5,Active
 Sherwood Mills Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Silver Creek Public School,Mississauga,Peel DSB,Elementary,0,0,2,Active
@@ -663,7 +663,7 @@ Tomken Road Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Trelawny Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Vanier Residence/Lorne Park Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Vista Heights Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-West Credit Secondary School,Mississauga,Peel DSB,Secondary,0,0,1,Active
+West Credit Secondary School,Mississauga,Peel DSB,Secondary,0,0,2,Active
 Westacres Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Whitehorn Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Whiteoaks Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -766,9 +766,8 @@ Elgin Street Public School,Ottawa,Ottawa-Carleton DSB,Elementary,3,2,5,Active
 Farley Mowat Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Frank Ryan Catholic Intermediate School,Ottawa,Ottawa CDSB,Elementary,4,0,4,Active
 Georges Vanier Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
-Glen Cairn Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Gloucester High School,Ottawa,Ottawa-Carleton DSB,Secondary,1,0,1,Active
-Henry Munro Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,0,2,2,Active
+Henry Munro Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Hilson Avenue Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Holy Cross Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 Holy Redeemer Elementary School,Ottawa,Ottawa CDSB,Elementary,2,0,2,Active
@@ -1069,7 +1068,6 @@ Uxbridge Secondary School,Uxbridge,Durham DSB,Secondary,6,0,6,Active
 Anne Frank Public School,Vaughan,York Region DSB,Elementary,0,0,3,Active
 Immaculate Conception Catholic Elementary School,Vaughan,York CDSB,Elementary,0,0,6,Active
 Johnny Lombardi Public School,Vaughan,York Region DSB,Elementary,0,0,1,Active
-Maple Creek Public School,Vaughan,York Region DSB,Elementary,0,0,6,Active
 Maple High School,Vaughan,York Region DSB,Secondary,0,0,8,Active
 St Agnes of Assisi Catholic Elementary School,Vaughan,York CDSB,Elementary,0,0,5,Active
 St Clement Catholic Elementary School,Vaughan,York CDSB,Elementary,0,0,7,Active
@@ -2133,6 +2131,7 @@ Forest Valley Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolv
 Frederick Banting Secondary Alternate Pr,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Glashan Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Glebe Collegiate Institute,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Glen Cairn Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Glen Ogilvie Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Good Shepherd Elementary School,Ottawa,Ottawa CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Goulbourn Middle School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -3161,6 +3160,7 @@ Kleinburg Public School,Vaughan,York Region DSB,Elementary,All resolved,All reso
 Lorna Jackson Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Louis-Honore Frechette Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Mackenzie Glen Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Maple Creek Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Michael Cranny Elementary School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Nellie McClung Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Fatima Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
