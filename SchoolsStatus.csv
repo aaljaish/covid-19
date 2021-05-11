@@ -31,7 +31,6 @@ General Amherst High School,Amherstburg,Greater Essex County DSB,Secondary,2,0,2
 St Joseph's Separate School,Arnprior,Renfrew County CDSB,Elementary,1,0,1,Active
 Maynard Public School,Augusta,Upper Canada DSB,Elementary,1,0,1,Active
 Northern Lights Public School,Aurora,York Region DSB,Elementary,0,0,0,Active
-Rick Hansen Public School,Aurora,York Region DSB,Elementary,0,0,1,Active
 Ã‰cole secondaire catholique Renaissance,Aurora,CS catholique MonAvenir,Secondary,1,0,1,Active
 Assumption Catholic Elementary School,Aylmer,London District Catholic School Board,Elementary,0,1,1,Active
 Assikinack Public School,Barrie,Simcoe County DSB,Elementary,1,0,1,Active
@@ -92,7 +91,7 @@ Claireville Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Clark Boulevard Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Conestoga Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Copeland Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
-Countryside Village Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
+Countryside Village Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 David Suzuki Secondary School,Brampton,Peel DSB,Secondary,0,0,1,Active
 Derry West Village Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Dolson Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
@@ -126,7 +125,7 @@ Helen Wilson Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Hewson Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Hickory Wood Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Hilldale Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Homestead Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
+Homestead Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Huttonville Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Ingleborough Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 James Grieve Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
@@ -251,7 +250,7 @@ Macville Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Malala Yousafzai PS (Elementary),Caledon,Peel DSB,Elementary,0,0,0,Active
 Mayfield Secondary School,Caledon,Peel DSB,Secondary,0,0,3,Active
 Palgrave Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
-Pte. Buckam Singh PS (Elementary),Caledon,Peel DSB,Elementary,0,0,1,Active
+Pte. Buckam Singh PS (Elementary),Caledon,Peel DSB,Elementary,0,0,2,Active
 SouthFields Village Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Tony Pontes (Elementary),Caledon,Peel DSB,Elementary,0,0,0,Active
 Ã‰Ã‰C Saint-Jean-Bosco,Caledon,CS catholique MonAvenir,Elementary,3,0,3,Active
@@ -320,7 +319,7 @@ St Joseph's Secondary School,Cornwall,CDSB of Eastern Ontario,Secondary,1,0,1,Ac
 Ã‰cole Ã©lÃ©mentaire catholique Notre-Dame,Cornwall,CSDC de l'Est ontarien,Elementary,1,0,1,Active
 Ã‰cole Ã©lÃ©mentaire publique Rose des Vents,Cornwall,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,1,0,1,Active
 Dryden High School,Dryden,Keewatin-Patricia DSB,Secondary,2,0,2,Active
-Mount Albert Public School,East Gwillimbury,York Region DSB,Elementary,0,0,1,Active
+Mount Albert Public School,East Gwillimbury,York Region DSB,Elementary,0,0,0,Active
 Ã‰cole Ã©lÃ©mentaire catholique CurÃ©-Labrosse,East Hawkesbury,CSDC de l'Est ontarien,Elementary,3,0,3,Active
 Lambton Central Centennial School,Enniskillen,Lambton Kent DSB,Elementary,1,0,1,Active
 Our Lady of Victory Catholic Elementary School,Fort Erie,Niagara CDSB,Elementary,4,0,4,Active
@@ -500,12 +499,7 @@ Woodland Heights Public School,London,Thames Valley DSB,Elementary,1,0,1,Active
 Ã‰cole secondaire Gabriel-Dumont,London,CS Viamonde,Secondary,1,0,1,Active
 Bath Public School,Loyalist,Limestone DSB,Elementary,2,0,2,Active
 Ernestown Secondary School,Loyalist,Limestone DSB,Secondary,1,0,1,Active
-Ashton Meadows Public School,Markham,York Region DSB,Elementary,0,0,4,Active
-Baythorn Public School,Markham,York Region DSB,Elementary,0,0,5,Active
 Ellen Fairclough Public School,Markham,York Region DSB,Elementary,0,0,5,Active
-Franklin Street Public School,Markham,York Region DSB,Elementary,0,0,13,Active
-Fred Varley Public School,Markham,York Region DSB,Elementary,0,0,3,Active
-Markham Gateway Public School,Markham,York Region DSB,Elementary,0,0,2,Active
 Sacred Heart Catholic School,Marmora and Lake,Algonquin and Lakeshore CDSB,Elementary,1,0,1,Active
 Georgian Bay District Secondary School,Midland,Simcoe County DSB,Secondary,4,1,5,Active
 Bishop Paul Francis Reding Secondary School,Milton,Halton CDSB,Secondary,2,0,2,Active
@@ -531,7 +525,7 @@ W I Dick Middle School,Milton,Halton DSB,Elementary,3,0,3,Active
 Ã‰cole Ã©lÃ©mentaire Dyane-Adam,Milton,CS Viamonde,Elementary,3,0,3,Active
 Archie Stouffer Elementary School,Minden Hills,Trillium Lakelands DSB,Elementary,1,0,1,Active
 Allan A Martin Senior Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-Applewood Acres Secondary School,Mississauga,Peel DSB,Secondary,0,0,1,Active
+Applewood Acres Secondary School,Mississauga,Peel DSB,Secondary,0,0,2,Active
 Applewood Heights Secondary School,Mississauga,Peel DSB,Secondary,0,0,1,Active
 Artesian Drive Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Barondale Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -638,7 +632,7 @@ School Board Partners,Mississauga,Peel DSB,Partner organizations (e.g. bus drive
 Settler's Green Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Shelter Bay Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Sheridan Park Public School,Mississauga,Peel DSB,Elementary,0,0,5,Active
-Sherwood Mills Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Sherwood Mills Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Silver Creek Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Silverthorn Public School,Mississauga,Peel DSB,Elementary,0,0,3,Active
 Springfield Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -658,15 +652,14 @@ Trelawny Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Vanier Residence/Lorne Park Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Vista Heights Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 West Credit Secondary School,Mississauga,Peel DSB,Secondary,0,0,2,Active
-Westacres Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Westacres Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Whitehorn Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Whiteoaks Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Willow Way Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Ã‰Ã‰C Ange-Gabriel,Mississauga,CS catholique MonAvenir,Elementary,1,0,1,Active
 Boyne River Public School,New Tecumseth,Simcoe County DSB,Elementary,1,0,1,Active
 St Thomas Aquinas Catholic Secondary School,New Tecumseth,Simcoe Muskoka CDSB,Secondary,1,0,1,Active
-Canadian Martyrs Catholic Elementary School,Newmarket,York CDSB,Elementary,0,0,1,Active
-J L R Bell Public School,Newmarket,York Region DSB,Elementary,0,0,1,Active
+Alexander Muir Public School,Newmarket,York Region DSB,Elementary,0,0,2,Active
 A N Myer Secondary School,Niagara Falls,DSB Niagara,Secondary,2,0,2,Active
 Greendale Public School,Niagara Falls,DSB Niagara,Elementary,1,0,1,Active
 Loretto Catholic Elementary School,Niagara Falls,Niagara CDSB,Elementary,4,0,4,Active
@@ -746,6 +739,7 @@ All Saints Catholic High School,Ottawa,Ottawa CDSB,Secondary,1,0,1,Active
 Assumption Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,2,2,4,Active
 Board Site,Ottawa,CSDC du Centre-Est de l'Ontario,Office,0,2,2,Active
 Centre de traitement le jour - Le Transit,Ottawa,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,0,1,1,Active
+Charles H. Hulse PS,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
 Clifford Bowey Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
 Corpus Christi Elementary School,Ottawa,Ottawa CDSB,Elementary,5,1,6,Active
 Dr F J McDonald Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
@@ -869,9 +863,6 @@ Prince Charles Public School,Quinte West,Hastings & Prince Edward DSB,Elementary
 Sacred Heart Catholic School,Quinte West,Algonquin and Lakeshore CDSB,Elementary,2,0,2,Active
 St Paul Catholic Elementary School,Quinte West,Algonquin and Lakeshore CDSB,Elementary,0,1,1,Active
 Trent River Public School,Quinte West,Hastings & Prince Edward DSB,Elementary,1,0,1,Active
-H.G. Bernard Public School,Richmond Hill,York Region DSB,Elementary,0,0,1,Active
-Richmond Rose Public School,Richmond Hill,York Region DSB,Elementary,0,0,1,Active
-Windham Ridge Public School,Richmond Hill,York Region DSB,Elementary,0,0,1,Active
 Mother Teresa Elementary school,Russell,CDSB of Eastern Ontario,Elementary,1,0,1,Active
 Russell High School,Russell,Upper Canada DSB,Secondary,2,0,2,Active
 Ã‰cole Ã©lÃ©mentaire catholique Embrun - Pav Saint-Jean/Pav La CroisÃ©e,Russell,CSDC de l'Est ontarien,Elementary,2,0,2,Active
@@ -1032,11 +1023,7 @@ Hillcrest Public School,Trent Hills,Kawartha Pine Ridge DSB,Elementary,1,0,1,Act
 Goodwood Public School,Uxbridge,Durham DSB,Elementary,6,1,7,Active
 Joseph Gould Public School,Uxbridge,Durham DSB,Elementary,1,0,1,Active
 Uxbridge Secondary School,Uxbridge,Durham DSB,Secondary,6,0,6,Active
-Anne Frank Public School,Vaughan,York Region DSB,Elementary,0,0,3,Active
-Johnny Lombardi Public School,Vaughan,York Region DSB,Elementary,0,0,1,Active
-Maple High School,Vaughan,York Region DSB,Secondary,0,0,8,Active
 St Veronica Catholic Elementary School,Vaughan,York CDSB,Elementary,0,0,1,Active
-Viola Desmond Public School,Vaughan,York Region DSB,Elementary,0,0,4,Active
 YRDSB Central/Occasional/ Itinerant Staff Members or Adult Learning Programs,Vaughan,York Region DSB,Unknown,0,0,0,Active
 Holy Rosary Catholic Elementary School,Waterloo,Waterloo CDSB,Elementary,1,0,1,Active
 Lincoln Heights Public School,Waterloo,Waterloo Region DSB,Elementary,0,1,1,Active
@@ -1132,6 +1119,7 @@ Holy Spirit Catholic Elementary School,Aurora,York CDSB,Elementary,All resolved,
 Lester B Pearson Public School,Aurora,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Light of Christ Catholic Elementary School,Aurora,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Grace Catholic Elementary School,Aurora,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Rick Hansen Public School,Aurora,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Joseph Catholic Elementary School,Aurora,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Maximilian Kolbe Catholic High School,Aurora,York CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 St Raphael the Archangel Catholic School,Aurora,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -1711,6 +1699,8 @@ Margaret Twomey Public School,Marathon,Superior-Greenstone DSB,Elementary,All re
 Aldergrove Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 All Saints Catholic Elementary School,Markham,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Armadale Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Ashton Meadows Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Baythorn Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bayview Fairways Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bayview Glen Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Beckett Farm Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -1728,6 +1718,8 @@ David Suzuki Public School,Markham,York Region DSB,Elementary,All resolved,All r
 Donald Cousens Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 E J Sand Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Father Michael McGivney Catholic Academy,Markham,York CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Franklin Street Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Fred Varley Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 German Mills Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Greensborough Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Henderson Avenue Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -1737,6 +1729,7 @@ Legacy Public School,Markham,York Region DSB,Elementary,All resolved,All resolve
 Lincoln Alexander Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Little Rouge Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Markham District High School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Markham Gateway Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Markville Secondary School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Middlefield Collegiate Institute,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Milliken Mills High School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -1906,15 +1899,16 @@ Monsignor J E Ronan Catholic School,New Tecumseth,Simcoe Muskoka CDSB,Elementary
 Tecumseth Beeton Elementary School,New Tecumseth,Simcoe County DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Tecumseth South Central Public School,New Tecumseth,Simcoe County DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Tottenham Public School,New Tecumseth,Simcoe County DSB,Elementary,All resolved,All resolved,All resolved,Resolved
-Alexander Muir Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Armitage Village Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Board Site 1,Newmarket,York CDSB,Office,All resolved,All resolved,All resolved,Resolved
 Bogart Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Canadian Martyrs Catholic Elementary School,Newmarket,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Clearmeadow Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Denne Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Dr John M Denison Secondary School,Newmarket,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Glen Cedar Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Huron Heights Secondary School,Newmarket,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+J L R Bell Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Maple Leaf Public School,Newmarket,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Newmarket High School,Newmarket,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Notre Dame Catholic Elementary School,Newmarket,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2080,7 +2074,6 @@ Centre Jules-LÃ©ger Ã‰P SurditÃ© palier,Ottawa,Provincial and Demonstrati
 Centre Jules-LÃ©ger Ã‰P SurditÃ© palier,Ottawa,Provincial and Demonstration Schools,Secondary,All resolved,All resolved,All resolved,Resolved
 Centre Ã©ducatif services Ã  la jeunesse,Ottawa,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elem/Sec,All resolved,All resolved,All resolved,Resolved
 Chapman Mills Elementary School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
-Charles H. Hulse PS,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Churchill Alternative School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Colonel By Secondary School,Ottawa,Ottawa-Carleton DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Connaught Public School,Ottawa,Ottawa-Carleton DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2325,6 +2318,7 @@ Crosby Heights Public School,Richmond Hill,York Region DSB,Elementary,All resolv
 Doncrest Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Father Frederick McGinn Catholic Elementary School,Richmond Hill,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Father Henri J M Nouwen Catholic Elementary School,Richmond Hill,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+H.G. Bernard Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lake Wilcox Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 MacLeod's Landing Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Michaelle Jean Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2339,6 +2333,7 @@ Red Maple Public School,Richmond Hill,York Region DSB,Elementary,All resolved,Al
 Redstone Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Richmond Green Secondary School,Richmond Hill,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Richmond Hill High School,Richmond Hill,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
+Richmond Rose Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Rose Doan Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Roselawn Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Silver Pines Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -2352,6 +2347,7 @@ St Mary Immaculate Catholic Elementary School,Richmond Hill,York CDSB,Elementary
 St Theresa of Lisieux Catholic High School,Richmond Hill,York CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Trillium Woods Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Walter Scott Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Windham Ridge Public School,Richmond Hill,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Lombardy Public School,Rideau Lakes,Upper Canada DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Rideau Vista Public School,Rideau Lakes,Upper Canada DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St. Thomas Aquinas Catholic High School,Russell,CDSB of Eastern Ontario,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -3124,6 +3120,7 @@ Buckhorn Public School,Trent Lakes,Kawartha Pine Ridge DSB,Elementary,All resolv
 Quaker Village Public School,Uxbridge,Durham DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Joseph Catholic School,Uxbridge,Durham CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Uxbridge Public School,Uxbridge,Durham DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Anne Frank Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Bakersfield Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Blessed Scalabrini Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Blue Willow Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -3146,6 +3143,7 @@ Herbert H Carnegie Public School,Vaughan,York Region DSB,Elementary,All resolved
 Holy Cross Catholic Academy,Vaughan,York CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Holy Jubilee Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Immaculate Conception Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Johnny Lombardi Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Joseph A Gibson Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Julliard Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Kleinburg Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -3153,6 +3151,7 @@ Lorna Jackson Public School,Vaughan,York Region DSB,Elementary,All resolved,All 
 Louis-Honore Frechette Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Mackenzie Glen Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Maple Creek Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Maple High School,Vaughan,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Michael Cranny Elementary School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Nellie McClung Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Our Lady of Fatima Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
@@ -3195,6 +3194,7 @@ Tommy Douglas Secondary School,Vaughan,York Region DSB,Secondary,All resolved,Al
 Vaughan Secondary School,Vaughan,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Vellore Woods Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Ventura Park Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
+Viola Desmond Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Westminster Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Westmount Collegiate Institute,Vaughan,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Wilshire Elementary School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved

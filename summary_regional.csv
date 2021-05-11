@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
 Brampton,135,58
-Mississauga,133,79
+Mississauga,133,82
 Toronto,100,218
-Ottawa,89,191
+Ottawa,90,192
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -11,7 +11,7 @@ Kitchener,22,28
 Milton,21,76
 Whitby,19,40
 London,18,32
-Caledon,18,16
+Caledon,18,17
 Pickering,17,50
 Brantford,16,35
 Barrie,15,20
@@ -29,8 +29,6 @@ Halton Hills,9,14
 Cornwall,9,11
 Guelph,8,13
 Waterloo,7,9
-Vaughan,6,17
-Markham,6,32
 Woodstock,5,6
 Tecumseh,5,13
 Quinte West,5,8
@@ -51,14 +49,13 @@ Uxbridge,3,14
 South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
-Richmond Hill,3,3
 North Glengarry,3,7
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
-Aurora,3,2
 Wilmot,2,3
+Vaughan,2,1
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -67,7 +64,6 @@ Pembroke,2,2
 Pelham,2,4
 North Middlesex,2,2
 Norfolk County,2,6
-Newmarket,2,2
 New Tecumseth,2,2
 Loyalist,2,3
 Lincoln,2,3
@@ -75,6 +71,7 @@ Huntsville,2,2
 Champlain,2,2
 Centre Hastings,2,2
 Brockton,2,2
+Aurora,2,1
 Whitchurch-Stouffville,1,1
 Trent Hills,1,1
 The Nation,1,1
@@ -95,9 +92,11 @@ Owen Sound,1,1
 North Dundas,1,1
 North Dumfries,1,1
 North Bay,1,1
+Newmarket,1,2
 Minden Hills,1,1
 Midland,1,5
 Marmora and Lake,1,1
+Markham,1,5
 Lambton Shores,1,5
 Kingsville,1,1
 Kincardine,1,1
@@ -110,7 +109,7 @@ Goderich,1,1
 Fort Erie,1,4
 Enniskillen,1,1
 East Hawkesbury,1,3
-East Gwillimbury,1,1
+East Gwillimbury,1,0
 Dryden,1,2
 Cobourg,1,10
 Central Elgin,1,6
