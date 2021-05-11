@@ -183,7 +183,6 @@ Spectrum/Central Peel SS,Brampton,Peel DSB,Secondary,0,0,0,Active
 Spectrum/West Credit SS,Brampton,Peel DSB,Secondary,0,0,0,Active
 Springbrook Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Springdale Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
-St. Marguerite d'Youville Secondary School,Brampton,Dufferin-Peel CDSB,Secondary,0,1,1,Active
 Stanley Mills Public School,Brampton,Peel DSB,Elementary,0,0,3,Active
 Sunny View Middle School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Terry Fox Public School,Brampton,Peel DSB,Elementary,0,0,7,Active
@@ -532,11 +531,12 @@ W I Dick Middle School,Milton,Halton DSB,Elementary,3,0,3,Active
 Ã‰cole Ã©lÃ©mentaire Dyane-Adam,Milton,CS Viamonde,Elementary,3,0,3,Active
 Archie Stouffer Elementary School,Minden Hills,Trillium Lakelands DSB,Elementary,1,0,1,Active
 Allan A Martin Senior Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Applewood Acres Secondary School,Mississauga,Peel DSB,Secondary,0,0,1,Active
 Applewood Heights Secondary School,Mississauga,Peel DSB,Secondary,0,0,1,Active
 Artesian Drive Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Barondale Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Brandon Gate Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-Brian W. Fleming Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Brian W. Fleming Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Briarwood Public School,Mississauga,Peel DSB,Elementary,0,0,6,Active
 Bristol Road Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Britannia Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -1801,7 +1801,6 @@ W Ross Macdonald Deaf Blind Secondary School,Milton,Provincial and Demonstration
 Minto-Clifford Central Public School,Minto,Upper Grand DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Norwell District Secondary School,Minto,Upper Grand DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 All Saints Catholic School,Mississauga,Dufferin-Peel CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
-Applewood Acres Secondary School,Mississauga,Peel DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Ascension of our Lord Secondary School,Mississauga,Dufferin-Peel CDSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Bishop Scalabrini School,Mississauga,Dufferin-Peel CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Canadian Martyrs Catholic School,Mississauga,Dufferin-Peel CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
