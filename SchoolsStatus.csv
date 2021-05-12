@@ -162,7 +162,7 @@ Peel Sec. Edu. Centre/Turner Fenton,Brampton,Peel DSB,Secondary,0,0,0,Active
 Queen Street Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Ray Lawson Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Red Willow Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Ridgeview Public School,Brampton,Peel DSB,Elementary,0,0,2,Active
+Ridgeview Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Robert H Lagerquist Senior Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Robert J. Lee Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Roberta Bondar Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
@@ -171,9 +171,9 @@ Rowntree Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Royal Orchard Middle School,Brampton,Peel DSB,Elementary,0,0,2,Active
 Russell D Barber Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Sandalwood Heights Secondary School,Brampton,Peel DSB,Secondary,0,0,1,Active
-Shaw Public School,Brampton,Peel DSB,Elementary,0,0,2,Active
+Shaw Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Sir Isaac Brock P.S. (Elementary),Brampton,Peel DSB,Elementary,0,0,1,Active
-Sir John A. Macdonald Senior Public School,Brampton,Peel DSB,Elementary,0,0,2,Active
+Sir John A. Macdonald Senior Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Sir Wilfrid Laurier Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Sir William Gage Middle School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Sir Winston Churchill Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
@@ -181,7 +181,7 @@ Somerset Drive Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
 Spectrum/Central Peel SS,Brampton,Peel DSB,Secondary,0,0,0,Active
 Spectrum/West Credit SS,Brampton,Peel DSB,Secondary,0,0,0,Active
 Springbrook Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Springdale Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
+Springdale Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Stanley Mills Public School,Brampton,Peel DSB,Elementary,0,0,3,Active
 Sunny View Middle School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Terry Fox Public School,Brampton,Peel DSB,Elementary,0,0,7,Active
@@ -236,7 +236,7 @@ Nelson High School,Burlington,Halton DSB,Secondary,0,1,1,Active
 Pineland Public School,Burlington,Halton DSB,Elementary,1,0,1,Active
 Ã‰cole Ã©lÃ©mentaire Renaissance,Burlington,CS Viamonde,Elementary,1,0,1,Active
 Johnsons Childrens Srv/RHSS,CALEDON VILLAGE,Peel DSB,Elem/Sec,0,0,0,Active
-Allan Drive Middle School,Caledon,Peel DSB,Elementary,0,0,2,Active
+Allan Drive Middle School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Alloa Public School,Caledon,Peel DSB,Elementary,0,0,1,Active
 Alton Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Belfountain Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
@@ -544,7 +544,7 @@ Champlain Trail Public School,Mississauga,Peel DSB,Elementary,0,0,2,Active
 Chris Hadfield P.S. (Elementary),Mississauga,Peel DSB,Elementary,0,0,0,Active
 Churchill Meadows Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Clarkson Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
-Clarkson Secondary School,Mississauga,Peel DSB,Secondary,0,0,5,Active
+Clarkson Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Clifton Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Cooksville Creek Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Corliss Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -1009,6 +1009,7 @@ St Sylvester Catholic School,Toronto,Toronto CDSB,Elementary,2,0,2,Active
 St Ursula Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
 Sts Cosmas and Damian Catholic School,Toronto,Toronto CDSB,Elementary,0,1,1,Active
 The Holy Trinity Catholic School,Toronto,Toronto CDSB,Elementary,1,0,1,Active
+Westmount Junior School,Toronto,Toronto DSB,Elementary,0,1,1,Active
 Ã‰cole Secondaire Toronto Ouest,Toronto,CS Viamonde,Secondary,1,0,1,Active
 Ã‰cole Ã©lÃ©mentaire Charles Sauriol,Toronto,CS Viamonde,Elementary,1,0,1,Active
 Ã‰cole Ã©lÃ©mentaire FÃ©lix-Leclerc,Toronto,CS Viamonde,Elementary,2,0,2,Active
@@ -3064,7 +3065,6 @@ West Humber Junior Middle School,Toronto,Toronto DSB,Elementary,All resolved,All
 West Preparatory Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 West Rouge Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Western Tech and Commercial School,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
-Westmount Junior School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Weston Collegiate Institute,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Weston Memorial Junior Public School,Toronto,Toronto DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Westview Centennial Secondary School,Toronto,Toronto DSB,Secondary,All resolved,All resolved,All resolved,Resolved
