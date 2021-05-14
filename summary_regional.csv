@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
-Brampton,135,52
-Mississauga,133,77
+Brampton,135,51
+Mississauga,133,71
 Toronto,101,219
-Ottawa,90,192
+Ottawa,90,193
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -11,7 +11,7 @@ Kitchener,22,28
 Milton,21,76
 Whitby,19,40
 London,18,32
-Caledon,18,15
+Caledon,18,11
 Pickering,17,50
 Brantford,16,35
 Barrie,15,20
@@ -55,7 +55,6 @@ Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
-Vaughan,2,1
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -73,6 +72,7 @@ Centre Hastings,2,2
 Brockton,2,2
 Aurora,2,1
 Whitchurch-Stouffville,1,1
+Vaughan,1,0
 Trent Hills,1,1
 The Nation,1,1
 The Blue Mountains,1,2

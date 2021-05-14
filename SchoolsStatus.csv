@@ -165,7 +165,7 @@ Red Willow Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Ridgeview Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Robert H Lagerquist Senior Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Robert J. Lee Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
-Roberta Bondar Public School,Brampton,Peel DSB,Elementary,0,0,1,Active
+Roberta Bondar Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Ross Drive Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Rowntree Public School,Brampton,Peel DSB,Elementary,0,0,0,Active
 Royal Orchard Middle School,Brampton,Peel DSB,Elementary,0,0,2,Active
@@ -237,7 +237,7 @@ Pineland Public School,Burlington,Halton DSB,Elementary,1,0,1,Active
 Ã‰cole Ã©lÃ©mentaire Renaissance,Burlington,CS Viamonde,Elementary,1,0,1,Active
 Johnsons Childrens Srv/RHSS,CALEDON VILLAGE,Peel DSB,Elem/Sec,0,0,0,Active
 Allan Drive Middle School,Caledon,Peel DSB,Elementary,0,0,0,Active
-Alloa Public School,Caledon,Peel DSB,Elementary,0,0,1,Active
+Alloa Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Alton Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Belfountain Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Caledon Central Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
@@ -248,7 +248,7 @@ Humberview Secondary School,Caledon,Peel DSB,Secondary,0,0,0,Active
 James Bolton Public School,Caledon,Peel DSB,Elementary,0,0,1,Active
 Macville Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Malala Yousafzai PS (Elementary),Caledon,Peel DSB,Elementary,0,0,0,Active
-Mayfield Secondary School,Caledon,Peel DSB,Secondary,0,0,3,Active
+Mayfield Secondary School,Caledon,Peel DSB,Secondary,0,0,0,Active
 Palgrave Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
 Pte. Buckam Singh PS (Elementary),Caledon,Peel DSB,Elementary,0,0,2,Active
 SouthFields Village Public School,Caledon,Peel DSB,Elementary,0,0,0,Active
@@ -585,7 +585,7 @@ John Fraser Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Kenollie Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Kindree Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Lancaster Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
-Levi Creek Public School,Mississauga,Peel DSB,Elementary,0,0,6,Active
+Levi Creek Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Lincoln M. Alexander Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Lisgar Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Lorne Park Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -740,7 +740,7 @@ Assumption Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,2,2,4,Active
 Board Site,Ottawa,CSDC du Centre-Est de l'Ontario,Office,0,2,2,Active
 Centre de traitement le jour - Le Transit,Ottawa,Conseil des Ã©coles publiques de l'Est de l'Ontario,Elementary,0,1,1,Active
 Charles H. Hulse PS,Ottawa,Ottawa-Carleton DSB,Elementary,1,0,1,Active
-Clifford Bowey Public School,Ottawa,Ottawa-Carleton DSB,Elementary,0,1,1,Active
+Clifford Bowey Public School,Ottawa,Ottawa-Carleton DSB,Elementary,1,1,2,Active
 Corpus Christi Elementary School,Ottawa,Ottawa CDSB,Elementary,5,1,6,Active
 Dr F J McDonald Catholic Elementary School,Ottawa,Ottawa CDSB,Elementary,1,0,1,Active
 Frank Ryan Catholic Intermediate School,Ottawa,Ottawa CDSB,Elementary,4,0,4,Active
@@ -1024,7 +1024,6 @@ Hillcrest Public School,Trent Hills,Kawartha Pine Ridge DSB,Elementary,1,0,1,Act
 Goodwood Public School,Uxbridge,Durham DSB,Elementary,6,1,7,Active
 Joseph Gould Public School,Uxbridge,Durham DSB,Elementary,1,0,1,Active
 Uxbridge Secondary School,Uxbridge,Durham DSB,Secondary,6,0,6,Active
-St Veronica Catholic Elementary School,Vaughan,York CDSB,Elementary,0,0,1,Active
 YRDSB Central/Occasional/ Itinerant Staff Members or Adult Learning Programs,Vaughan,York Region DSB,Unknown,0,0,0,Active
 Holy Rosary Catholic Elementary School,Waterloo,Waterloo CDSB,Elementary,1,0,1,Active
 Lincoln Heights Public School,Waterloo,Waterloo Region DSB,Elementary,0,1,1,Active
@@ -3183,6 +3182,7 @@ St Mary of the Angels Catholic Elementary School,Vaughan,York CDSB,Elementary,Al
 St Michael Catholic Academy,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Peter Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St Stephen Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
+St Veronica Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St. Cecilia Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St. Joseph the Worker Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
 St. Michael the Archangel Catholic Elementary School,Vaughan,York CDSB,Elementary,All resolved,All resolved,All resolved,Resolved
