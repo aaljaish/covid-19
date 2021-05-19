@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
-Brampton,135,50
-Mississauga,133,73
+Brampton,135,37
+Mississauga,133,72
 Toronto,102,220
-Ottawa,90,192
+Ottawa,91,193
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -11,7 +11,7 @@ Kitchener,22,28
 Milton,21,76
 Whitby,19,40
 London,18,32
-Caledon,18,12
+Caledon,18,11
 Pickering,17,50
 Brantford,16,35
 Barrie,15,20
