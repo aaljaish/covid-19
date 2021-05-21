@@ -1,11 +1,11 @@
 summaryHeading,summaries,x1_sum,y1_sum,reportedDate,numberOfActiveSchools,numberOfActiveCases
 New_Total_School_Related_Cases,0.0,1+,1086.0,2020-09-11,13,0
-Cumulative_School_Related_Cases,15002.0,2+,388.0,2020-09-14,15,0
-active_total,1723.0,3+,197.0,2020-09-15,27,2
+Cumulative_School_Related_Cases,15002.0,2+,386.0,2020-09-14,15,0
+active_total,1717.0,3+,195.0,2020-09-15,27,2
 active_schools_count,1086.0,4+,113.0,2020-09-16,35,6
 active_student,1353.0,5+,67.0,2020-09-17,51,9
 active_staff,252.0,6+,39.0,2020-09-18,60,10
-active_unspecified,118.0,7+,20.0,2020-09-21,75,13
+active_unspecified,112.0,7+,20.0,2020-09-21,75,13
 Current_Schools_Closed,0.0,8+,13.0,2020-09-22,114,23
 ,,9+,9.0,2020-09-23,153,25
 ,,10+,7.0,2020-09-24,178,29
@@ -169,3 +169,4 @@ Current_Schools_Closed,0.0,8+,13.0,2020-09-22,114,23
 ,,,,2021-05-18,1085,651
 ,,,,2021-05-19,1086,636
 ,,,,2021-05-20,1086,637
+,,,,2021-05-21,1086,631
