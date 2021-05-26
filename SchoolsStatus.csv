@@ -500,6 +500,7 @@ Woodland Heights Public School,London,Thames Valley DSB,Elementary,1,0,1,Active
 Bath Public School,Loyalist,Limestone DSB,Elementary,2,0,2,Active
 Ernestown Secondary School,Loyalist,Limestone DSB,Secondary,1,0,1,Active
 Ellen Fairclough Public School,Markham,York Region DSB,Elementary,0,0,5,Active
+Markham Gateway Public School,Markham,York Region DSB,Elementary,0,0,1,Active
 Sacred Heart Catholic School,Marmora and Lake,Algonquin and Lakeshore CDSB,Elementary,1,0,1,Active
 Georgian Bay District Secondary School,Midland,Simcoe County DSB,Secondary,4,1,5,Active
 Bishop Paul Francis Reding Secondary School,Milton,Halton CDSB,Secondary,2,0,2,Active
@@ -645,7 +646,7 @@ The Valleys Senior Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 The Woodlands,Mississauga,Peel DSB,Elementary,0,0,0,Active
 The Woodlands Secondary School,Mississauga,Peel DSB,Secondary,0,0,0,Active
 Thomas Street Middle School,Mississauga,Peel DSB,Elementary,0,0,2,Active
-Thorn Lodge Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
+Thorn Lodge Public School,Mississauga,Peel DSB,Elementary,0,0,1,Active
 Thornwood Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Tomken Road Middle School,Mississauga,Peel DSB,Elementary,0,0,0,Active
 Trelawny Public School,Mississauga,Peel DSB,Elementary,0,0,0,Active
@@ -1025,6 +1026,7 @@ Hillcrest Public School,Trent Hills,Kawartha Pine Ridge DSB,Elementary,1,0,1,Act
 Goodwood Public School,Uxbridge,Durham DSB,Elementary,6,1,7,Active
 Joseph Gould Public School,Uxbridge,Durham DSB,Elementary,1,0,1,Active
 Uxbridge Secondary School,Uxbridge,Durham DSB,Secondary,6,0,6,Active
+Woodbridge College,Vaughan,York Region DSB,Secondary,0,0,1,Active
 YRDSB Central/Occasional/ Itinerant Staff Members or Adult Learning Programs,Vaughan,York Region DSB,Unknown,0,0,0,Active
 Holy Rosary Catholic Elementary School,Waterloo,Waterloo CDSB,Elementary,1,0,1,Active
 Lincoln Heights Public School,Waterloo,Waterloo Region DSB,Elementary,0,1,1,Active
@@ -1730,7 +1732,6 @@ Legacy Public School,Markham,York Region DSB,Elementary,All resolved,All resolve
 Lincoln Alexander Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Little Rouge Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Markham District High School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
-Markham Gateway Public School,Markham,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Markville Secondary School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Middlefield Collegiate Institute,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Milliken Mills High School,Markham,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
@@ -3199,7 +3200,6 @@ Viola Desmond Public School,Vaughan,York Region DSB,Elementary,All resolved,All 
 Westminster Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Westmount Collegiate Institute,Vaughan,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Wilshire Elementary School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
-Woodbridge College,Vaughan,York Region DSB,Secondary,All resolved,All resolved,All resolved,Resolved
 Woodbridge Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Woodland Public School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved
 Yorkhill Elementary School,Vaughan,York Region DSB,Elementary,All resolved,All resolved,All resolved,Resolved

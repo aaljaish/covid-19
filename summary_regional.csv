@@ -1,6 +1,6 @@
 Municipality,School,Total_Confirmed_Cases
 Brampton,135,32
-Mississauga,133,72
+Mississauga,133,73
 Toronto,102,220
 Ottawa,91,193
 Hamilton,71,171
@@ -55,6 +55,7 @@ Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
+Vaughan,2,1
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -64,6 +65,7 @@ Pelham,2,4
 North Middlesex,2,2
 Norfolk County,2,6
 New Tecumseth,2,2
+Markham,2,6
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
@@ -72,7 +74,6 @@ Centre Hastings,2,2
 Brockton,2,2
 Aurora,2,1
 Whitchurch-Stouffville,1,1
-Vaughan,1,0
 Trent Hills,1,1
 The Nation,1,1
 The Blue Mountains,1,2
@@ -95,7 +96,6 @@ North Bay,1,1
 Minden Hills,1,1
 Midland,1,5
 Marmora and Lake,1,1
-Markham,1,5
 Lambton Shores,1,5
 Kingsville,1,1
 Kincardine,1,1
