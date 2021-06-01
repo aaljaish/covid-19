@@ -1,8 +1,8 @@
 Municipality,School,Total_Confirmed_Cases
 Brampton,134,25
 Mississauga,132,57
-Toronto,102,220
-Ottawa,92,194
+Toronto,103,221
+Ottawa,91,193
 Hamilton,71,171
 Oshawa,26,48
 Ajax,25,74
@@ -45,17 +45,18 @@ Innisfil,4,7
 Hawkesbury,4,8
 Clarence-Rockland,4,6
 Casselman,4,18
+Vaughan,3,2
 Uxbridge,3,14
 South Glengarry,3,5
 Scugog,3,7
 Russell,3,5
 North Glengarry,3,7
+Markham,3,8
 Kawartha Lakes,3,4
 Grimsby,3,5
 Collingwood,3,4
 Brockville,3,4
 Wilmot,2,3
-Vaughan,2,1
 St. Thomas,2,4
 Sault Ste. Marie,2,3
 Port Hope,2,2
@@ -65,7 +66,6 @@ Pelham,2,4
 North Middlesex,2,2
 Norfolk County,2,6
 New Tecumseth,2,2
-Markham,2,7
 Loyalist,2,3
 Lincoln,2,3
 Huntsville,2,2
